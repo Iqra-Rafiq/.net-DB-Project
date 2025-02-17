@@ -1,0 +1,2 @@
+raffay,123,Customer,raffay@,1234,01-12-1998,Punjab
+abdul muqeet,123,Customer,iqrarafiq@gmail.com,1234567890,01-12-1998,gujrat

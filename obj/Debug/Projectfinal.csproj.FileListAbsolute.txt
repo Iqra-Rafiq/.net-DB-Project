@@ -1,0 +1,97 @@
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\bin\Debug\Projectfinal.exe.config
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\bin\Debug\Projectfinal.exe
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\bin\Debug\Projectfinal.pdb
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Form6.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Properties.Resources.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.csproj.GenerateResource.cache
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.exe
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.pdb
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.SignInform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.SellerMenuform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Productentryform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Productsviewform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Productseditform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Chargesentryform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.CustomersMenuform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Orderform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Accountdetails.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Wishlistform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.ViewCartform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Billform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.Soldproductsform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.SignUpCustomer.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.CaptchaCustomer.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.AdminMenuform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.SignUpSeller.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.CustomerViewform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.EditUsersform.resources
+C:\Users\Hp\OneDrive\SEMESTER 2\Weeek10\Projectfinal\obj\Debug\Projectfinal.viewcustomerforms.resources
+D:\Projectfinal\bin\Debug\Projectfinal.exe.config
+D:\Projectfinal\bin\Debug\Projectfinal.exe
+D:\Projectfinal\bin\Debug\Projectfinal.pdb
+D:\Projectfinal\obj\Debug\Projectfinal.csproj.AssemblyReference.cache
+D:\Projectfinal\obj\Debug\Projectfinal.csproj.SuggestedBindingRedirects.cache
+D:\Projectfinal\obj\Debug\Projectfinal.SignInform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.SellerMenuform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Productentryform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Productsviewform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Productseditform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Chargesentryform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.CustomersMenuform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Orderform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Accountdetails.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Wishlistform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.ViewCartform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.viewcustomerforms.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Billform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Soldproductsform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.SignUpCustomer.resources
+D:\Projectfinal\obj\Debug\Projectfinal.CaptchaCustomer.resources
+D:\Projectfinal\obj\Debug\Projectfinal.AdminMenuform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Form6.resources
+D:\Projectfinal\obj\Debug\Projectfinal.SignUpSeller.resources
+D:\Projectfinal\obj\Debug\Projectfinal.CustomerViewform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.EditUsersform.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Properties.Resources.resources
+D:\Projectfinal\obj\Debug\Projectfinal.csproj.GenerateResource.cache
+D:\Projectfinal\obj\Debug\Projectfinal.csproj.CoreCompileInputs.cache
+D:\Projectfinal\obj\Debug\Projectfinal.exe
+D:\Projectfinal\obj\Debug\Projectfinal.pdb
+D:\Projectfinal\obj\Debug\Projectfinal.orders.resources
+D:\Projectfinal\obj\Debug\Projectfinal.Riders.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\bin\Debug\Projectfinal.exe.config
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\bin\Debug\Projectfinal.exe
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\bin\Debug\Projectfinal.pdb
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.csproj.AssemblyReference.cache
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.SignInform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.SellerMenuform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Productentryform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Productsviewform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Productseditform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Chargesentryform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.CustomersMenuform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Orderform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Accountdetails.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Wishlistform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.ViewCartform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.viewcustomerforms.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Billform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Soldproductsform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.SignUpCustomer.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.CaptchaCustomer.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.AdminMenuform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Form6.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.SignUpSeller.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.CustomerViewform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.EditUsersform.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.orders.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Properties.Resources.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.Riders.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.SelectRiders.resources
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.csproj.GenerateResource.cache
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.csproj.CoreCompileInputs.cache
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.exe
+C:\Users\Shining star\Downloads\Projectfinalfinal\Projectfinal\obj\Debug\Projectfinal.pdb

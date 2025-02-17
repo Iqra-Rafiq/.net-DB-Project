@@ -1,0 +1,2 @@
+usman,123,Seller,usman@,12345,18-12-1991,12
+iqra,123,Seller,iqra@,124,01-12-1998,23

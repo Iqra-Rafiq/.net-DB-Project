@@ -1,0 +1,5 @@
+ali,123,Admin
+usman,123,Seller
+iqra,123,Seller
+raffay,123,Customer
+abdul muqeet,123,Customer

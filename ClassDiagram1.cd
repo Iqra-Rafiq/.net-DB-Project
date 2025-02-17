@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Projectfinal.BL.Customers">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAEAAIABAAAAIAAAAAAAAQAAAAAAAAAAAAgAgAAI=</HashCode>
+      <FileName>BL\Customers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.BL.Deliverycharges">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAI=</HashCode>
+      <FileName>BL\Deliverycharges.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.BL.Products">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAQAQAAEAAAAAgAAAgIAAAIAACAAAAIgAAACAA=</HashCode>
+      <FileName>BL\Products.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.BL.Sellers">
+    <Position X="7" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAAAAQA=</HashCode>
+      <FileName>BL\Sellers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.BL.Users">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAgEAAAABQAAEAEAAgCAAAAAgAAAAA=</HashCode>
+      <FileName>BL\Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.DL.CustomerDL">
+    <Position X="10" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgAAAAAAAAAAQAAAAAAACCAAAQAACAA=</HashCode>
+      <FileName>DL\CustomerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.DL.DeliveryChargesDL">
+    <Position X="13" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACADAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\DeliveryChargesDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.DL.ProductsDL">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAASAEAAEAAAAAAAACABAE=</HashCode>
+      <FileName>DL\ProductsDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.DL.SellerDL">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAAAAAAAAAAAQQAAAEEACAIQgAAAAIAA=</HashCode>
+      <FileName>DL\SellerDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectfinal.DL.UsersDL">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAABAAAAAAAIAAgACAAAAAACABAg=</HashCode>
+      <FileName>DL\UsersDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
